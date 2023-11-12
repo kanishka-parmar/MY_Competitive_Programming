@@ -1,2 +1,2 @@
 # MY-Competitive-Programming
-This contains the various questions i practice on platforms such as codechef,Hackerank,GFG etc.
+This contains the various questions i practice on platforms such as Hackerank,GFG etc.
